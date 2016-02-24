@@ -3,24 +3,25 @@ namespace LootCrate4.Migrations
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class first : DbMigration
+    public partial class InitialMigration : DbMigration
     {
         public override void Up()
         {
+            CreateTable(
+                "dbo.BobbleHeads",
+                c => new
+                    {
+                        ID = c.Int(nullable: false, identity: true),
+                        superHeroName = c.String(),
+                    })
+                .PrimaryKey(t => t.ID);
+            
             CreateTable(
                 "dbo.Crates",
                 c => new
                     {
                         ID = c.Int(nullable: false, identity: true),
                         crateName = c.String(),
-                    })
-                .PrimaryKey(t => t.ID);
-            
-            CreateTable(
-                "dbo.CrateItems",
-                c => new
-                    {
-                        ID = c.Int(nullable: false, identity: true),
                         bobbleHead_ID = c.Int(),
                         shirt_ID = c.Int(),
                         toy_ID = c.Int(),
@@ -35,15 +36,6 @@ namespace LootCrate4.Migrations
                 .Index(t => t.shirt_ID)
                 .Index(t => t.toy_ID)
                 .Index(t => t.videoGame_ID);
-            
-            CreateTable(
-                "dbo.BobbleHeads",
-                c => new
-                    {
-                        ID = c.Int(nullable: false, identity: true),
-                        superHeroName = c.String(),
-                    })
-                .PrimaryKey(t => t.ID);
             
             CreateTable(
                 "dbo.Shirts",
@@ -76,6 +68,26 @@ namespace LootCrate4.Migrations
                     })
                 .PrimaryKey(t => t.ID);
             
+            CreateTable(
+                "dbo.CrateItems",
+                c => new
+                    {
+                        ID = c.Int(nullable: false, identity: true),
+                        bobbleHead_ID = c.Int(),
+                        shirt_ID = c.Int(),
+                        toy_ID = c.Int(),
+                        videoGame_ID = c.Int(),
+                    })
+                .PrimaryKey(t => t.ID)
+                .ForeignKey("dbo.BobbleHeads", t => t.bobbleHead_ID)
+                .ForeignKey("dbo.Shirts", t => t.shirt_ID)
+                .ForeignKey("dbo.Toys", t => t.toy_ID)
+                .ForeignKey("dbo.VideoGames", t => t.videoGame_ID)
+                .Index(t => t.bobbleHead_ID)
+                .Index(t => t.shirt_ID)
+                .Index(t => t.toy_ID)
+                .Index(t => t.videoGame_ID);
+            
         }
         
         public override void Down()
@@ -84,16 +96,24 @@ namespace LootCrate4.Migrations
             DropForeignKey("dbo.CrateItems", "toy_ID", "dbo.Toys");
             DropForeignKey("dbo.CrateItems", "shirt_ID", "dbo.Shirts");
             DropForeignKey("dbo.CrateItems", "bobbleHead_ID", "dbo.BobbleHeads");
+            DropForeignKey("dbo.Crates", "videoGame_ID", "dbo.VideoGames");
+            DropForeignKey("dbo.Crates", "toy_ID", "dbo.Toys");
+            DropForeignKey("dbo.Crates", "shirt_ID", "dbo.Shirts");
+            DropForeignKey("dbo.Crates", "bobbleHead_ID", "dbo.BobbleHeads");
             DropIndex("dbo.CrateItems", new[] { "videoGame_ID" });
             DropIndex("dbo.CrateItems", new[] { "toy_ID" });
             DropIndex("dbo.CrateItems", new[] { "shirt_ID" });
             DropIndex("dbo.CrateItems", new[] { "bobbleHead_ID" });
+            DropIndex("dbo.Crates", new[] { "videoGame_ID" });
+            DropIndex("dbo.Crates", new[] { "toy_ID" });
+            DropIndex("dbo.Crates", new[] { "shirt_ID" });
+            DropIndex("dbo.Crates", new[] { "bobbleHead_ID" });
+            DropTable("dbo.CrateItems");
             DropTable("dbo.VideoGames");
             DropTable("dbo.Toys");
             DropTable("dbo.Shirts");
-            DropTable("dbo.BobbleHeads");
-            DropTable("dbo.CrateItems");
             DropTable("dbo.Crates");
+            DropTable("dbo.BobbleHeads");
         }
     }
 }
