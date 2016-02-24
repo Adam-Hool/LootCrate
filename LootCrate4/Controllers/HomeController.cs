@@ -8,12 +8,24 @@ namespace LootCrate4.Controllers
 {
     public class HomeController : Controller
     {
+        public ActionResult Toys()
+        {
+            return View();
+        }
+        public ActionResult Shirts()
+        {
+            return View();
+        }
+        public ActionResult VideoGames()
+        {
+            return View();
+        }
         public ActionResult Index()
         {
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult AboutLootCrate()
         {
             ViewBag.Message = "Your application description page.";
 
