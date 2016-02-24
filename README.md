@@ -1,0 +1,2 @@
+# LootCrate
+LootCrate
