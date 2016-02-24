@@ -77,8 +77,7 @@ C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Secu
 C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.Google.xml
 C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.Twitter.xml
 C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\obj\Debug\LootCrate4.csprojResolveAssemblyReference.cache
 C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\obj\Debug\LootCrate4.dll
 C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\obj\Debug\LootCrate4.pdb
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\obj\Debug\LootCrate4.Migrations.InitialMigration.resources
+C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\obj\Debug\LootCrate4.Migrations.first.resources
 C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\obj\Debug\LootCrate4.csproj.GenerateResource.Cache

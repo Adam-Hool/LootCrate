@@ -9,6 +9,6 @@ namespace LootCrate4.Models
     {
         public int ID { get; set; }
         public string crateName { get; set; }
-        public List<CrateItem> crateItems { get; set; }
+        //public List<CrateItem> CrateItems { get; set; }
     }
 }

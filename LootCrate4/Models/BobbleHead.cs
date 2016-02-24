@@ -1,8 +1,9 @@
 ﻿namespace LootCrate4.Models
 {
-    public class BobbleHead : CrateItem
+    public class BobbleHead 
     {
-        public new int ID { get; set; }
+        public int ID { get; set; }
         public string superHeroName { get; set; }
+
     }
 }

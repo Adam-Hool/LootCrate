@@ -1,6 +1,5 @@
 namespace LootCrate4.Migrations
 {
-    using Models;
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
@@ -15,14 +14,6 @@ namespace LootCrate4.Migrations
 
         protected override void Seed(LootCrate4.Models.LootContext context)
         {
-            context.Crate.AddOrUpdate(
-                Batman => batman.crateItems,
-                new Shirt { superHeroName = "Batman", size = 2 },
-                new VideoGame { superHeroName = "Batman", Genre = "RPG",Title = "Arkam Asylem" },
-                new Toy { superHeroName = "Batman", ToyName = "Batarang"},
-                new BobbleHead { superHeroName = "Batman"});
-        }
-            //  ^
             //  This method will be called after migrating to the latest version.
 
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
@@ -35,6 +26,6 @@ namespace LootCrate4.Migrations
             //      new Person { FullName = "Rowan Miller" }
             //    );
             //
-        
+        }
     }
 }

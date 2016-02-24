@@ -8,9 +8,10 @@ namespace LootCrate4.Models
     public class CrateItem
     {
         public int ID { get; set; }
-        public Toy toy { get; set; }
-        public VideoGame videoGame { get; set; }
-        public Shirt shirt { get; set; }
-        public BobbleHead bobbleHead { get; set; }
+        public virtual Toy toy { get; set; }
+        public virtual VideoGame videoGame { get; set; }
+        public virtual Shirt shirt { get; set; }
+        public virtual BobbleHead bobbleHead { get; set; }
+
     }
 }
