@@ -211,6 +211,10 @@
     <Compile Include="Migrations\201602242134394_InitialMigration.Designer.cs">
       <DependentUpon>201602242134394_InitialMigration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201602251811517_updatedSurveysModle.cs" />
+    <Compile Include="Migrations\201602251811517_updatedSurveysModle.Designer.cs">
+      <DependentUpon>201602251811517_updatedSurveysModle.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\BobbleHead.cs" />
@@ -335,6 +339,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201602242134394_InitialMigration.resx">
       <DependentUpon>201602242134394_InitialMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201602251811517_updatedSurveysModle.resx">
+      <DependentUpon>201602251811517_updatedSurveysModle.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
