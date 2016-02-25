@@ -16,7 +16,7 @@
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         <div class="form-group">
-            @Html.LabelFor(model => model.question, htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.LabelFor(model => model.question, htmlAttributes: new { @class = "control -label col-md-2" })
             <div class="col-md-10">
                 @Html.EditorFor(model => model.question, new { htmlAttributes = new { @class = "form-control" } })
                 @Html.ValidationMessageFor(model => model.question, "", new { @class = "text-danger" })
@@ -222,7 +222,7 @@
                             ()
               {//What weapon would u bring into battle?
               new SelectListItem {Text = "Boomarang",   Value = "1"},
-              new SelectListItem {Text = "Lassor eyes", Value = "2"},
+              new SelectListItem {Text = "Lazor eyes", Value = "2"},
               new SelectListItem {Text = "Lasso", Value = "3" },
               new SelectListItem {Text = "Bow and arrow", Value = "4" },
               new SelectListItem {Text = "Boxing gloves", Value = "5" }
