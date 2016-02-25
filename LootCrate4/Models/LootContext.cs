@@ -23,6 +23,8 @@ namespace LootCrate4.Models
         public System.Data.Entity.DbSet<LootCrate4.Models.BobbleHead> BobbleHeads { get; set; }
 
         public System.Data.Entity.DbSet<LootCrate4.Models.Toy> Toys { get; set; }
+
+        public System.Data.Entity.DbSet<LootCrate4.Models.Survey> Surveys { get; set; }
         //public DbSet<Toy> Toy { get; set; }
     }
 }

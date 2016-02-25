@@ -26,15 +26,15 @@
                 @Html.EditorFor(model => model.bobbleHead.superHeroName, new { htmlAttributes = new { @class = "form-control" } })
                 @Html.ValidationMessageFor(model => model.bobbleHead.superHeroName, "", new { @class = "text-danger" })
             </div>
-            @Html.LabelFor(model => model.toy, htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.LabelFor(model => model.shirt, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.toy.ToyName, new { htmlAttributes = new { @class = "form-control" } })
-                @Html.ValidationMessageFor(model => model.toy.ToyName, "", new { @class = "text-danger" })
+                @Html.EditorFor(model => model.shirt.superHeroName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.shirt.superHeroName, "", new { @class = "text-danger" })
             </div>
-            @Html.LabelFor(model => model.toy.superHeroName, htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.LabelFor(model => model.shirt.size, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.toy.superHeroName, new { htmlAttributes = new { @class = "form-control" } })
-                @Html.ValidationMessageFor(model => model.toy.superHeroName, "", new { @class = "text-danger" })
+                @Html.EditorFor(model => model.shirt.size, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.shirt.size, "", new { @class = "text-danger" })
             </div>
             @Html.LabelFor(model => model.videoGame, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
