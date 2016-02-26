@@ -198,19 +198,25 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\BobbleHeadsController.cs" />
+    <Compile Include="Controllers\CratesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\RoleController.cs" />
     <Compile Include="Controllers\ShirtsController.cs" />
+    <Compile Include="Controllers\SurveysController.cs" />
     <Compile Include="Controllers\ToysController.cs" />
     <Compile Include="Controllers\VideoGamesController.cs" />
     <Compile Include="CustomFilters\AuthLogAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201602241630126_first.cs" />
-    <Compile Include="Migrations\201602241630126_first.Designer.cs">
-      <DependentUpon>201602241630126_first.cs</DependentUpon>
+    <Compile Include="Migrations\201602242134394_InitialMigration.cs" />
+    <Compile Include="Migrations\201602242134394_InitialMigration.Designer.cs">
+      <DependentUpon>201602242134394_InitialMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201602251811517_updatedSurveysModle.cs" />
+    <Compile Include="Migrations\201602251811517_updatedSurveysModle.Designer.cs">
+      <DependentUpon>201602251811517_updatedSurveysModle.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -222,6 +228,7 @@
     <Compile Include="Models\LootContext.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Shirt.cs" />
+    <Compile Include="Models\Survey.cs" />
     <Compile Include="Models\Toy.cs" />
     <Compile Include="Models\VideoGame.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -329,12 +336,25 @@
     <Content Include="Views\Toys\Details.cshtml" />
     <Content Include="Views\Toys\Edit.cshtml" />
     <Content Include="Views\Toys\Index.cshtml" />
+<<<<<<< HEAD
     <Content Include="Scripts\jquery-2.2.0.min.map" />
     <Content Include="Views\Role\Index.cshtml" />
     <Content Include="Views\Role\Create.cshtml" />
     <Content Include="Views\Shared\AuthorizeFailed.cshtml" />
     <Content Include="Views\Account\MyAccount.cshtml" />
     <Content Include="Views\Account\MyAdminAccount.cshtml" />
+=======
+    <Content Include="Views\Crates\Create.cshtml" />
+    <Content Include="Views\Crates\Delete.cshtml" />
+    <Content Include="Views\Crates\Details.cshtml" />
+    <Content Include="Views\Crates\Edit.cshtml" />
+    <Content Include="Views\Crates\Index.cshtml" />
+    <Content Include="Views\Surveys\Create.cshtml" />
+    <Content Include="Views\Surveys\Delete.cshtml" />
+    <Content Include="Views\Surveys\Details.cshtml" />
+    <Content Include="Views\Surveys\Edit.cshtml" />
+    <Content Include="Views\Surveys\Index.cshtml" />
+>>>>>>> 8dbc68bea7d1dff85058538647d4ace3a652a1a7
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Admin\" />
@@ -344,8 +364,11 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201602241630126_first.resx">
-      <DependentUpon>201602241630126_first.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201602242134394_InitialMigration.resx">
+      <DependentUpon>201602242134394_InitialMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201602251811517_updatedSurveysModle.resx">
+      <DependentUpon>201602251811517_updatedSurveysModle.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
