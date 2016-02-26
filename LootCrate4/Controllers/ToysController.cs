@@ -15,6 +15,7 @@ namespace LootCrate4.Controllers
         private LootContext db = new LootContext();
 
         // GET: Toys
+
         public ActionResult Index()
         {
             return View(db.Toys.ToList());

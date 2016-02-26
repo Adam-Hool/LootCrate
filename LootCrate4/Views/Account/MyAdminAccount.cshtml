@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MyAccount</title>
+</head>
+<body>
+    <div> 
+        Sup world
+    </div>
+    <div>
+        @Html.ActionLink("Toys", "Index", "Toys", new object { }, new { @class="btn btn-default" })  
+        <p><a class="btn btn-default" href="">Do Sum'n &raquo;</a></p>
+        <p><a class="btn btn-default" href="">Do Sum else &raquo;</a></p>
+
+    </div>
+    <h2>Biz Naz Table</h2>
+    <table class="table" id="maintable">
+        <thead>
+            <tr>
+                <th>Firstname</th>
+                <th>Lastname</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="data-contact-person">
+                <td>
+                    <input type="text" name="f-name" class="form-control f-name01" />
+                </td>
+                <td>
+                    <input type="text" name="l-name" class="form-control l-name01" />
+                </td>
+                <td>
+                    <input type="text" name="email" class="form-control email01" />
+                </td>
+                <td>
+                    <button type="button" id="btnAdd" class="btn btn-xs btn-primary classAdd">Add More</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
