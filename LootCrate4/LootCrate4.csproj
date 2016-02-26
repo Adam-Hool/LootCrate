@@ -336,14 +336,12 @@
     <Content Include="Views\Toys\Details.cshtml" />
     <Content Include="Views\Toys\Edit.cshtml" />
     <Content Include="Views\Toys\Index.cshtml" />
-<<<<<<< HEAD
     <Content Include="Scripts\jquery-2.2.0.min.map" />
     <Content Include="Views\Role\Index.cshtml" />
     <Content Include="Views\Role\Create.cshtml" />
     <Content Include="Views\Shared\AuthorizeFailed.cshtml" />
     <Content Include="Views\Account\MyAccount.cshtml" />
     <Content Include="Views\Account\MyAdminAccount.cshtml" />
-=======
     <Content Include="Views\Crates\Create.cshtml" />
     <Content Include="Views\Crates\Delete.cshtml" />
     <Content Include="Views\Crates\Details.cshtml" />
@@ -354,7 +352,6 @@
     <Content Include="Views\Surveys\Details.cshtml" />
     <Content Include="Views\Surveys\Edit.cshtml" />
     <Content Include="Views\Surveys\Index.cshtml" />
->>>>>>> 8dbc68bea7d1dff85058538647d4ace3a652a1a7
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Admin\" />
