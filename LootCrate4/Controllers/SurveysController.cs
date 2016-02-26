@@ -20,6 +20,25 @@ namespace LootCrate4.Controllers
             return View(db.Surveys.ToList());
         }
 
+        public int GetSurveyScore(Survey survey)
+        {
+            return survey.totalScore;
+        }
+
+        public Crate AssignCrate(int surveyScore)
+        {
+            if(surveyScore<=10 && surveyScore<=18)
+            { return db.Crate.Find(1); }
+            else if (surveyScore <= 19 && surveyScore <= 26)
+            { return db.Crate.Find(2); }
+            else if (surveyScore <= 27 && surveyScore <= 34)
+            { return db.Crate.Find(3); }
+            else if (surveyScore <= 35 && surveyScore <= 42)
+            { return db.Crate.Find(4); }
+            else
+            { return db.Crate.Find(5); }
+        }
+
         // GET: Surveys/Details/5
         public ActionResult Details(int? id)
         {
