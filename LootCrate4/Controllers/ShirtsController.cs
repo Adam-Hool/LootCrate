@@ -7,6 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using LootCrate4.Models;
+using LootCrate4.CustomFilters;
 
 namespace LootCrate4.Controllers
 {
@@ -21,6 +22,7 @@ namespace LootCrate4.Controllers
         }
 
         // GET: Shirts/Details/5
+
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -36,6 +38,7 @@ namespace LootCrate4.Controllers
         }
 
         // GET: Shirts/Create
+        [AuthLog(Roles = "Admin")]
         public ActionResult Create()
         {
             return View();

@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNet.Identity.EntityFramework;
 
 namespace LootCrate4.Models
 {
@@ -68,6 +69,7 @@ namespace LootCrate4.Models
         [EmailAddress]
         [Display(Name = "Email")]
         public string Email { get; set; }
+        public string Name { get; set; }
 
         [Required]
         [StringLength(100, ErrorMessage = "The {0} must be at least {2} characters long.", MinimumLength = 6)]
