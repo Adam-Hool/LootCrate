@@ -165,7 +165,6 @@ C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\obj\
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\obj\Debug\LootCrate4.dll
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\obj\Debug\LootCrate4.pdb
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\obj\Debug\LootCrate4.csprojResolveAssemblyReference.cache
-<<<<<<< HEAD
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\csc.exe.config
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\csc.rsp
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\csi.exe
@@ -181,7 +180,6 @@ C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.Primitives.dll
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\vbc.exe.config
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\vbc.rsp
-=======
 C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\ApplicationInsights.config
 C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\csc.exe
 C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -266,5 +264,18 @@ C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\obj\Debug\Loo
 C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\obj\Debug\LootCrate4.Migrations.InitialMigration.resources
 C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\obj\Debug\LootCrate4.csproj.GenerateResource.Cache
 C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\obj\Debug\LootCrate4.Migrations.updatedSurveysModle.resources
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\obj\Debug\LootCrate4.csprojResolveAssemblyReference.cache
->>>>>>> 8dbc68bea7d1dff85058538647d4ace3a652a1a7
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\csc.exe.config
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\csc.rsp
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\csi.exe
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\csi.rsp
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\System.AppContext.dll
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\System.Console.dll
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.dll
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\vbc.exe.config
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\vbc.rsp
