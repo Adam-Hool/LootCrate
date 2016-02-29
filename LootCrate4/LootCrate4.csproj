@@ -205,18 +205,27 @@
     <Compile Include="Controllers\ShirtsController.cs" />
     <Compile Include="Controllers\SurveysController.cs" />
     <Compile Include="Controllers\ToysController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Controllers\VideoGamesController.cs" />
     <Compile Include="CustomFilters\AuthLogAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201602242134394_InitialMigration.cs" />
-    <Compile Include="Migrations\201602242134394_InitialMigration.Designer.cs">
-      <DependentUpon>201602242134394_InitialMigration.cs</DependentUpon>
+    <Compile Include="Migrations\201602261558028_InitialMigration.cs" />
+    <Compile Include="Migrations\201602261558028_InitialMigration.Designer.cs">
+      <DependentUpon>201602261558028_InitialMigration.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201602251811517_updatedSurveysModle.cs" />
-    <Compile Include="Migrations\201602251811517_updatedSurveysModle.Designer.cs">
-      <DependentUpon>201602251811517_updatedSurveysModle.cs</DependentUpon>
+    <Compile Include="Migrations\201602291740250_AddUser.cs" />
+    <Compile Include="Migrations\201602291740250_AddUser.Designer.cs">
+      <DependentUpon>201602291740250_AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201602291825240_useradd.cs" />
+    <Compile Include="Migrations\201602291825240_useradd.Designer.cs">
+      <DependentUpon>201602291825240_useradd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201602291835459_recreate.cs" />
+    <Compile Include="Migrations\201602291835459_recreate.Designer.cs">
+      <DependentUpon>201602291835459_recreate.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -230,6 +239,7 @@
     <Compile Include="Models\Shirt.cs" />
     <Compile Include="Models\Survey.cs" />
     <Compile Include="Models\Toy.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Models\VideoGame.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
@@ -352,6 +362,8 @@
     <Content Include="Views\Surveys\Details.cshtml" />
     <Content Include="Views\Surveys\Edit.cshtml" />
     <Content Include="Views\Surveys\Index.cshtml" />
+    <Content Include="Views\Shared\_Table.cshtml" />
+    <Content Include="Views\User\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Admin\" />
@@ -361,11 +373,17 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201602242134394_InitialMigration.resx">
-      <DependentUpon>201602242134394_InitialMigration.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201602261558028_InitialMigration.resx">
+      <DependentUpon>201602261558028_InitialMigration.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201602251811517_updatedSurveysModle.resx">
-      <DependentUpon>201602251811517_updatedSurveysModle.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201602291740250_AddUser.resx">
+      <DependentUpon>201602291740250_AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201602291825240_useradd.resx">
+      <DependentUpon>201602291825240_useradd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201602291835459_recreate.resx">
+      <DependentUpon>201602291835459_recreate.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

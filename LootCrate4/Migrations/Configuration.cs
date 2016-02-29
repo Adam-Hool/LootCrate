@@ -9,7 +9,7 @@ namespace LootCrate4.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(LootCrate4.Models.LootContext context)

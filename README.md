@@ -1,4 +1,2 @@
-# LootCrate2
+LootCrate2
 second attempt
-
-

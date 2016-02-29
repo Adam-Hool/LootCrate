@@ -20,6 +20,11 @@ namespace LootCrate4.Controllers
             return View(db.VideoGames.ToList());
         }
 
+        public ActionResult DisplaySearchResults(string searchText)
+        {
+            return PartialView("Index", db.VideoGames.ToList());
+        }
+
         // GET: VideoGames/Details/5
         public ActionResult Details(int? id)
         {

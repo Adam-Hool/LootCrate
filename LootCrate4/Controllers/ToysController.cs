@@ -20,6 +20,10 @@ namespace LootCrate4.Controllers
         {
             return View(db.Toys.ToList());
         }
+       public  bool Action()
+        {
+            return false;
+        }
 
         // GET: Toys/Details/5
         public ActionResult Details(int? id)
@@ -41,10 +45,15 @@ namespace LootCrate4.Controllers
         {
             return View();
         }
+        public ActionResult _Table()
+        {
+            return View();
+        }
+        public ActionResult DisplaySearchResults(string searchText)
+        {
+            return PartialView("Index", db.Toys.ToList());
+        }
 
-        // POST: Toys/Create
-        // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
-        // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "ID,ToyName,superHeroName")] Toy toy)
@@ -58,8 +67,6 @@ namespace LootCrate4.Controllers
 
             return View(toy);
         }
-
-        // GET: Toys/Edit/5
         public ActionResult Edit(int? id)
         {
             if (id == null)

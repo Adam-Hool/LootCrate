@@ -33,5 +33,6 @@ namespace LootCrate4.Controllers
             context.SaveChanges();
             return RedirectToAction("Index");
         }
+        
     }
 }

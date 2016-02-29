@@ -19,6 +19,10 @@ namespace LootCrate4.Controllers
         {
             return View(db.BobbleHeads.ToList());
         }
+        public ActionResult DisplaySearchResults(string searchText)
+        {
+            return PartialView("Index", db.BobbleHeads.ToList());
+        }
 
         // GET: BobbleHeads/Details/5
         public ActionResult Details(int? id)

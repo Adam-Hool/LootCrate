@@ -13,10 +13,5 @@ namespace LootCrate4.Models
         public string questionAnswer { get; set; }
         public int questionScore { get; set; }
         public int totalScore { get; set; }
-
-        public int GetTotalScore()
-        {
-            return this.totalScore;
-        }
     }
 }

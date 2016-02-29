@@ -20,6 +20,11 @@ namespace LootCrate4.Controllers
         {
             return View(db.Shirts.ToList());
         }
+        public ActionResult DisplaySearchResults(string searchText)
+        {
+            //var model = 
+            return PartialView("Index", db.Shirts.ToList());
+        }
 
         // GET: Shirts/Details/5
 

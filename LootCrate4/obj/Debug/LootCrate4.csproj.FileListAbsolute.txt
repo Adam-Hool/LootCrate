@@ -1,97 +1,29 @@
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\ApplicationInsights.config
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\roslyn\csc.exe
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\roslyn\System.Collections.Immutable.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\roslyn\System.Reflection.Metadata.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\roslyn\vbc.exe
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\roslyn\VBCSCompiler.exe
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\roslyn\VBCSCompiler.exe.config
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\LootCrate4.dll.config
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\LootCrate4.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\LootCrate4.pdb
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Antlr3.Runtime.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\EntityFramework.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\EntityFramework.SqlServer.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AI.Agent.Intercept.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AI.DependencyCollector.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AI.Web.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AI.WindowsServer.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.ApplicationInsights.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AspNet.Identity.Core.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.Cookies.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.Facebook.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.Google.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.OAuth.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.Twitter.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Web.Infrastructure.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Newtonsoft.Json.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Owin.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.Helpers.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.Mvc.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.Optimization.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.Razor.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.WebPages.Deployment.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.WebPages.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.WebPages.Razor.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\WebGrease.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AI.DependencyCollector.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AI.Web.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AI.WindowsServer.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.ApplicationInsights.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.Helpers.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.Mvc.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.Optimization.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.Razor.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.WebPages.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.WebPages.Deployment.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\System.Web.WebPages.Razor.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Antlr3.Runtime.pdb
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Newtonsoft.Json.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\EntityFramework.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\EntityFramework.SqlServer.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AspNet.Identity.Core.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.Facebook.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.Cookies.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.OAuth.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.Google.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.Twitter.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\obj\Debug\LootCrate4.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\obj\Debug\LootCrate4.pdb
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\obj\Debug\LootCrate4.Migrations.first.resources
-C:\devcodecamp\devCodeCampProjects\LootCrate4\LootCrate4\obj\Debug\LootCrate4.csproj.GenerateResource.Cache
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\ApplicationInsights.config
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\csc.exe
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\csc.exe.config
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\csc.rsp
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\csi.exe
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\csi.rsp
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\System.AppContext.dll
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\System.Console.dll
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.Primitives.dll
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\System.Reflection.Metadata.dll
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\vbc.exe
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\vbc.exe.config
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\vbc.rsp
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\VBCSCompiler.exe
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\LootCrate4.dll.config
@@ -131,12 +63,14 @@ C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\System.Web.WebPages.dll
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\System.Web.WebPages.Razor.dll
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\WebGrease.dll
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Antlr3.Runtime.pdb
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Microsoft.AI.Web.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Microsoft.ApplicationInsights.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Newtonsoft.Json.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\System.Web.Helpers.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\System.Web.Mvc.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\System.Web.Optimization.xml
@@ -144,8 +78,6 @@ C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\System.Web.WebPages.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\System.Web.WebPages.Razor.xml
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Antlr3.Runtime.pdb
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Newtonsoft.Json.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\EntityFramework.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\EntityFramework.SqlServer.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Core.xml
@@ -160,122 +92,308 @@ C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\obj\Debug\LootCrate4.Migrations.first.resources
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\obj\Debug\LootCrate4.csproj.GenerateResource.Cache
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\obj\Debug\LootCrate4.dll
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\obj\Debug\LootCrate4.pdb
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\obj\Debug\LootCrate4.Migrations.InitialMigration.resources
+C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\obj\Debug\LootCrate4.csproj.GenerateResource.Cache
 C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\obj\Debug\LootCrate4.csprojResolveAssemblyReference.cache
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\csc.exe.config
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\csc.rsp
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\csi.exe
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\csi.rsp
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\System.AppContext.dll
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\System.Console.dll
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\vbc.exe.config
-C:\Users\Kong\Documents\devcodecamp projects\devCodeVS\LootCrate\LootCrate4\bin\roslyn\vbc.rsp
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\ApplicationInsights.config
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\csc.exe
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\System.Collections.Immutable.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\System.Reflection.Metadata.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\vbc.exe
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\VBCSCompiler.exe
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\VBCSCompiler.exe.config
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\LootCrate4.dll.config
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\LootCrate4.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\LootCrate4.pdb
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Antlr3.Runtime.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\EntityFramework.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\EntityFramework.SqlServer.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AI.Agent.Intercept.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AI.DependencyCollector.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AI.Web.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AI.WindowsServer.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.ApplicationInsights.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Core.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Cookies.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Facebook.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Google.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.OAuth.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Twitter.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Web.Infrastructure.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Newtonsoft.Json.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Owin.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.Helpers.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.Mvc.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.Optimization.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.Razor.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.WebPages.Deployment.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.WebPages.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.WebPages.Razor.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\WebGrease.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AI.DependencyCollector.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AI.Web.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AI.WindowsServer.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.ApplicationInsights.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.Helpers.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.Mvc.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.Optimization.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.Razor.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.WebPages.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.WebPages.Deployment.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\System.Web.WebPages.Razor.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Antlr3.Runtime.pdb
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Newtonsoft.Json.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\EntityFramework.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\EntityFramework.SqlServer.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Core.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Facebook.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Cookies.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.OAuth.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Google.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Twitter.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\obj\Debug\LootCrate4.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\obj\Debug\LootCrate4.pdb
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\obj\Debug\LootCrate4.Migrations.InitialMigration.resources
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\obj\Debug\LootCrate4.csproj.GenerateResource.Cache
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\obj\Debug\LootCrate4.Migrations.updatedSurveysModle.resources
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\csc.exe.config
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\csc.rsp
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\csi.exe
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\csi.rsp
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\System.AppContext.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\System.Console.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\vbc.exe.config
-C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\vbc.rsp
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\ApplicationInsights.config
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\csc.exe
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\csc.exe.config
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\csc.rsp
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\csi.exe
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\csi.rsp
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\System.AppContext.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\System.Console.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\vbc.exe
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\vbc.exe.config
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\vbc.rsp
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\LootCrate4.dll.config
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\LootCrate4.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\LootCrate4.pdb
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Antlr3.Runtime.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\EntityFramework.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\EntityFramework.SqlServer.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AI.Web.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Newtonsoft.Json.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Owin.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.Helpers.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.Mvc.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.Optimization.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.Razor.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.WebPages.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\WebGrease.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Antlr3.Runtime.pdb
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AI.Web.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Newtonsoft.Json.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.Helpers.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.Mvc.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.Optimization.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.Razor.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.WebPages.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\EntityFramework.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\EntityFramework.SqlServer.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\obj\Debug\LootCrate4.csprojResolveAssemblyReference.cache
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\obj\Debug\LootCrate4.Migrations.InitialMigration.resources
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\obj\Debug\LootCrate4.csproj.GenerateResource.Cache
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\obj\Debug\LootCrate4.dll
+C:\Users\Kong\Desktop\lootlocal\LootCrate\LootCrate4\obj\Debug\LootCrate4.pdb
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\ApplicationInsights.config
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\csc.exe
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\csc.exe.config
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\csc.rsp
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\csi.exe
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\csi.rsp
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\System.AppContext.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\System.Console.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\vbc.exe
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\vbc.exe.config
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\vbc.rsp
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\LootCrate4.dll.config
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\LootCrate4.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\LootCrate4.pdb
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Antlr3.Runtime.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\EntityFramework.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\EntityFramework.SqlServer.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.Web.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Newtonsoft.Json.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Owin.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.Helpers.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.Mvc.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.Optimization.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.Razor.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.WebPages.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\WebGrease.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Antlr3.Runtime.pdb
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.Web.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Newtonsoft.Json.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.Helpers.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.Mvc.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.Optimization.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.Razor.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.WebPages.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\EntityFramework.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\EntityFramework.SqlServer.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\obj\Debug\LootCrate4.csprojResolveAssemblyReference.cache
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\obj\Debug\LootCrate4.Migrations.InitialMigration.resources
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\obj\Debug\LootCrate4.csproj.GenerateResource.Cache
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\obj\Debug\LootCrate4.dll
+C:\Users\Kong\Desktop\lootlocal - Copy\LootCrate\LootCrate4\obj\Debug\LootCrate4.pdb
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\ApplicationInsights.config
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\csc.exe
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\csc.exe.config
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\csc.rsp
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\csi.exe
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\csi.rsp
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\System.AppContext.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\System.Console.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\vbc.exe
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\vbc.exe.config
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\vbc.rsp
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\LootCrate4.dll.config
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\LootCrate4.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\LootCrate4.pdb
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Antlr3.Runtime.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\EntityFramework.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\EntityFramework.SqlServer.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.Web.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Newtonsoft.Json.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Owin.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.Helpers.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.Mvc.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.Optimization.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.Razor.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.WebPages.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\WebGrease.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Antlr3.Runtime.pdb
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.Web.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Newtonsoft.Json.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.Helpers.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.Mvc.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.Optimization.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.Razor.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.WebPages.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\EntityFramework.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\EntityFramework.SqlServer.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\obj\Debug\LootCrate4.Migrations.InitialMigration.resources
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\obj\Debug\LootCrate4.csproj.GenerateResource.Cache
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\obj\Debug\LootCrate4.dll
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\obj\Debug\LootCrate4.pdb
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\obj\Debug\LootCrate4.Migrations.UserAdd.resources
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\obj\Debug\LootCrate4.Migrations.AddUser.resources
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\obj\Debug\LootCrate4.Migrations.recreate.resources
+C:\Users\Kong\Desktop\lootlocal - Copy - Copy\LootCrate\LootCrate4\obj\Debug\LootCrate4.csprojResolveAssemblyReference.cache
