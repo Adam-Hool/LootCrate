@@ -203,6 +203,7 @@
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\RoleController.cs" />
     <Compile Include="Controllers\ShirtsController.cs" />
+    <Compile Include="Controllers\Surveys1Controller.cs" />
     <Compile Include="Controllers\SurveysController.cs" />
     <Compile Include="Controllers\ToysController.cs" />
     <Compile Include="Controllers\UserController.cs" />
@@ -226,6 +227,10 @@
     <Compile Include="Migrations\201602291835459_recreate.cs" />
     <Compile Include="Migrations\201602291835459_recreate.Designer.cs">
       <DependentUpon>201602291835459_recreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201602291657428_reworkedSurvey.cs" />
+    <Compile Include="Migrations\201602291657428_reworkedSurvey.Designer.cs">
+      <DependentUpon>201602291657428_reworkedSurvey.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -362,8 +367,10 @@
     <Content Include="Views\Surveys\Details.cshtml" />
     <Content Include="Views\Surveys\Edit.cshtml" />
     <Content Include="Views\Surveys\Index.cshtml" />
+
     <Content Include="Views\Shared\_Table.cshtml" />
     <Content Include="Views\User\Index.cshtml" />
+
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Admin\" />
@@ -385,6 +392,12 @@
     <EmbeddedResource Include="Migrations\201602291835459_recreate.resx">
       <DependentUpon>201602291835459_recreate.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201602291657428_reworkedSurvey.resx">
+      <DependentUpon>201602291657428_reworkedSurvey.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

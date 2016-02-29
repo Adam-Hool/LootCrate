@@ -25,18 +25,22 @@
 
         <div class="form-group">
             <div class="col-md-10" style="color:black">
-                @{var listItems1 = new List<SelectListItem>
-                            ()
+                @{var listItems1 = new List<SelectListItem>()
+
+                                                         
+
               {//Favorite color?
-              new SelectListItem {Text = "Black",   Value = "1"},
+                        new SelectListItem {Text = "Black",   Value = "1"},
               new SelectListItem {Text = "Red", Value = "2"},
               new SelectListItem {Text = "Gold", Value = "3" },
               new SelectListItem {Text = "Green", Value = "4" },
               new SelectListItem {Text = "Yellow", Value = "5" }
 
-              };
+             };
 
                     @Html.DropDownListFor(model => model.questionAnswer, listItems1)
+
+              }; 
                 }
             </div>
         </div>
@@ -50,17 +54,19 @@
 
         <div class="form-group">
             <div class="col-md-10" style="color:black">
-                @{var listItems2 = new List<SelectListItem>
-                            ()
+                @{var listItems2 = new List<SelectListItem>()
+
               {//Favorite Pass Time?
               new SelectListItem {Text = "JungleGym",   Value = "1"},
               new SelectListItem {Text = "Journalism", Value = "2"},
               new SelectListItem {Text = "Holahooping", Value = "3" },
               new SelectListItem {Text = "Archary", Value = "4" },
               new SelectListItem {Text = "Boxing", Value = "5"}
-              };
 
-                    @Html.DropDownListFor(model => model.questionAnswer, listItems2)
+                  };
+
+
+          @Html.DropDownListFor(model => model.question2Score, listItems2)
                 }
             </div>
         </div>
@@ -74,17 +80,17 @@
 
         <div class="form-group">
             <div class="col-md-10" style="color:black">
-                @{var listItems3 = new List<SelectListItem>
-                            ()
+                @{var listItems3 = new List<SelectListItem>()
+
               {//Favorite superpower?
               new SelectListItem {Text = "Stealth",   Value = "1"},
               new SelectListItem {Text = "Flight", Value = "2"},
               new SelectListItem {Text = "Telling the Truth", Value = "3" },
               new SelectListItem {Text = "Perfect Accuracy", Value = "4" },
-              new SelectListItem {Text = "Super Strength", Value = "5" }
-              };
+              new SelectListItem {Text = "Super Strength", Value = "5" }}; 
+                  
 
-                    @Html.DropDownListFor(model => model.questionAnswer, listItems3)
+                    @Html.DropDownListFor(model => model.question3Score, listItems3)
                 }
             </div>
         </div>
@@ -98,17 +104,17 @@
 
         <div class="form-group">
             <div class="col-md-10" style="color:black">
-                @{var listItems4 = new List<SelectListItem>
-                              ()
+                @{var listItems4 = new List<SelectListItem>()
+
               {//If you grew up not knowing your parents why would that be?
               new SelectListItem {Text = "They died when I was young",   Value = "1"},
               new SelectListItem {Text = "Sent me far away to save me from danger", Value = "2"},
               new SelectListItem {Text = "Abandoned at a church", Value = "3" },
               new SelectListItem {Text = "Killed themselves to save me", Value = "4" },
-              new SelectListItem {Text = "I don't know what happened to them", Value = "5" }
-              };
+              new SelectListItem {Text = "I don't know what happened to them", Value = "5" } };
+                   
 
-                    @Html.DropDownListFor(model => model.questionAnswer, listItems4)
+                    @Html.DropDownListFor(model => model.question4Score, listItems4)
                 }
             </div>
         </div>
@@ -122,17 +128,16 @@
 
         <div class="form-group">
             <div class="col-md-10" style="color:black">
-                @{var listItems5 = new List<SelectListItem>
-                            ()
+                @{var listItems5 = new List<SelectListItem>()
               {//How did you gain your powers?
               new SelectListItem {Text = "Studiing under Elite Master",   Value = "1"},
               new SelectListItem {Text = "The Sun", Value = "2"},
               new SelectListItem {Text = "Magical Oniment", Value = "3" },
               new SelectListItem {Text = "HyperIntese Training", Value = "4" },
-              new SelectListItem {Text = "Endless Training", Value = "5" }
-              };
+              new SelectListItem {Text = "Endless Training", Value = "5" }};
+                   
 
-                    @Html.DropDownListFor(model => model.questionAnswer, listItems5)
+                    @Html.DropDownListFor(model => model.question5Score, listItems5)
                 }
             </div>
         </div>
@@ -146,17 +151,16 @@
 
         <div class="form-group">
             <div class="col-md-10" style="color:black">
-                @{var listItems6 = new List<SelectListItem>
-                            ()
+                @{var listItems6 = new List<SelectListItem>()
+
               {//Which would be you'r prefered day job?
               new SelectListItem {Text = "CEO",   Value = "1"},
               new SelectListItem {Text = "Journalist", Value = "2"},
               new SelectListItem {Text = "Queen", Value = "3" },
               new SelectListItem {Text = "PlayBoy", Value = "4" },
-              new SelectListItem {Text = "Police", Value = "5" }
-              };
+              new SelectListItem {Text = "Police", Value = "5" }};
 
-                    @Html.DropDownListFor(model => model.questionAnswer, listItems6)
+                    @Html.DropDownListFor(model => model.question6Score, listItems6)
                 }
             </div>
         </div>
@@ -170,17 +174,16 @@
 
         <div class="form-group">
             <div class="col-md-10" style="color:black">
-                @{var listItems7 = new List<SelectListItem>
-                            ()
+                @{var listItems7 = new List<SelectListItem>()
+
               {//Favorite super villain?  
               new SelectListItem {Text = "Joker",   Value = "1"},
               new SelectListItem {Text = "Lex Luthor", Value = "2"},
               new SelectListItem {Text = "Hadies", Value = "3" },
               new SelectListItem {Text = "DeathStroke", Value = "4" },
-              new SelectListItem {Text = "Lord Boros", Value = "5" }
-              };
+              new SelectListItem {Text = "Lord Boros", Value = "5" } }; 
 
-                    @Html.DropDownListFor(model => model.questionAnswer, listItems7)
+                    @Html.DropDownListFor(model => model.question7Score, listItems7)
                 }
             </div>
         </div>
@@ -194,18 +197,19 @@
 
         <div class="form-group">
             <div class="col-md-10" style="color:black">
-                @{var listItems8 = new List<SelectListItem>
-                            ()
+                @{var listItems8 = new List<SelectListItem>()
+
               {//What inspired you to become a superhero?
               new SelectListItem {Text = "Chiledhood trauma",   Value = "1"},
               new SelectListItem {Text = "Natual instincts", Value = "2"},
               new SelectListItem {Text = "Raised to from Birth", Value = "3" },
               new SelectListItem {Text = "Teenage Trauma", Value = "4" },
-              new SelectListItem {Text = "Yearning for more strength", Value = "5" }
-              };
+              new SelectListItem {Text = "Yearning for more strength", Value = "5" }};
 
-                    @Html.DropDownListFor(model => model.questionAnswer, listItems8)
-                }
+                    @Html.DropDownListFor(model => model.questionAnswer, listItems8)};
+                 
+
+                    @Html.DropDownListFor(model => model.question8Score, listItems8)}
             </div>
         </div>
         <div class="form-group">
@@ -218,17 +222,15 @@
 
         <div class="form-group">
             <div class="col-md-10" style="color:black">
-                @{var listItems9 = new List<SelectListItem>
-                            ()
+                @{var listItems9 = new List<SelectListItem>()
               {//What weapon would u bring into battle?
               new SelectListItem {Text = "Boomarang",   Value = "1"},
               new SelectListItem {Text = "Lazor eyes", Value = "2"},
               new SelectListItem {Text = "Lasso", Value = "3" },
               new SelectListItem {Text = "Bow and arrow", Value = "4" },
-              new SelectListItem {Text = "Boxing gloves", Value = "5" }
-              };
+              new SelectListItem {Text = "Boxing gloves", Value = "5" } }; 
 
-                    @Html.DropDownListFor(model => model.questionAnswer, listItems9)
+                    @Html.DropDownListFor(model => model.question9Score, listItems9)
                 }
             </div>
         </div>
@@ -242,18 +244,16 @@
 
         <div class="form-group">
             <div class="col-md-10" style="color:black">
-                @{var listItems10 = new List<SelectListItem>
-                            ()
-              {//Favorite phrase 
+                @{var listItems10 = new List<SelectListItem>()
+     {//Favorite phrase 
               new SelectListItem {Text = "All men have limits. They learn what they are and learn not to exceed them. I ignore mine.",   Value = "1"},
               new SelectListItem {Text = "Up, up, and away.", Value = "2"},
               new SelectListItem {Text = "This is a first date, is it not? It should be about understanding, not consummation.", Value = "3" },
               new SelectListItem {Text = "When it began, I thought I'd be chasing a big, bad villain... not a lost kid.", Value = "4" },
-              new SelectListItem {Text = "I've become too strong.", Value = "5" }
-              };
-
-                    @Html.DropDownListFor(model => model.questionAnswer, listItems10)
+              new SelectListItem {Text = "I've become too strong.", Value = "5" }};
+                    @Html.DropDownListFor(model => model.question10Score, listItems10)
                 }
+
             </div>
         </div>
        
@@ -261,7 +261,7 @@
 
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
-                <input type="submit" value="Create" class="btn btn-default" />
+                <input type="submit" value="submit" class="btn btn-default" />
             
         </div>
     </div>

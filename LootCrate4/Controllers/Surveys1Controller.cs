@@ -10,17 +10,17 @@ using LootCrate4.Models;
 
 namespace LootCrate4.Controllers
 {
-    public class SurveysController : Controller
+    public class Surveys1Controller : Controller
     {
         private LootContext db = new LootContext();
 
-        // GET: Surveys
+        // GET: Surveys1
         public ActionResult Index()
         {
             return View(db.Surveys.ToList());
         }
 
-        // GET: Surveys/Details/5
+        // GET: Surveys1/Details/5
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -35,22 +35,21 @@ namespace LootCrate4.Controllers
             return View(survey);
         }
 
-        // GET: Surveys/Create
+        // GET: Surveys1/Create
         public ActionResult Create()
         {
             return View();
         }
 
-        // POST: Surveys/Create
+        // POST: Surveys1/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "ID,question1Score,question2Score,question3Score,question4Score,question5Score,question6Score,question7Score,question8Score,question9Score,question10Score,questionScore,totalScore")] Survey survey)
+        public ActionResult Create([Bind(Include = "ID,question,questionAnswer,questionScore,totalScore")] Survey survey)
         {
             if (ModelState.IsValid)
             {
-                
                 db.Surveys.Add(survey);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -59,7 +58,7 @@ namespace LootCrate4.Controllers
             return View(survey);
         }
 
-        // GET: Surveys/Edit/5
+        // GET: Surveys1/Edit/5
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -74,12 +73,12 @@ namespace LootCrate4.Controllers
             return View(survey);
         }
 
-        // POST: Surveys/Edit/5
+        // POST: Surveys1/Edit/5
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "ID,question1Score,question2Score,question3Score,question4Score,question5Score,question6Score,question7Score,question8Score,question9Score,question10Score,questionScore,totalScore")] Survey survey)
+        public ActionResult Edit([Bind(Include = "ID,question,questionAnswer,questionScore,totalScore")] Survey survey)
         {
             if (ModelState.IsValid)
             {
@@ -90,7 +89,7 @@ namespace LootCrate4.Controllers
             return View(survey);
         }
 
-        // GET: Surveys/Delete/5
+        // GET: Surveys1/Delete/5
         public ActionResult Delete(int? id)
         {
             if (id == null)
@@ -105,7 +104,7 @@ namespace LootCrate4.Controllers
             return View(survey);
         }
 
-        // POST: Surveys/Delete/5
+        // POST: Surveys1/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
