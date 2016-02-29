@@ -219,6 +219,10 @@
     <Compile Include="Migrations\201602251811517_updatedSurveysModle.Designer.cs">
       <DependentUpon>201602251811517_updatedSurveysModle.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201602291657428_reworkedSurvey.cs" />
+    <Compile Include="Migrations\201602291657428_reworkedSurvey.Designer.cs">
+      <DependentUpon>201602291657428_reworkedSurvey.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\BobbleHead.cs" />
@@ -373,6 +377,12 @@
     <EmbeddedResource Include="Migrations\201602251811517_updatedSurveysModle.resx">
       <DependentUpon>201602251811517_updatedSurveysModle.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201602291657428_reworkedSurvey.resx">
+      <DependentUpon>201602291657428_reworkedSurvey.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

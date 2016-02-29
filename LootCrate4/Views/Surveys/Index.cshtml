@@ -12,7 +12,7 @@
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.question)
+            @Html.DisplayNameFor(model => model.question1Score)
         </th>
         <th>
             @Html.DisplayNameFor(model => model.questionScore)
@@ -26,7 +26,34 @@
 @foreach (var item in Model) {
     <tr>
         <td>
-            @Html.DisplayFor(modelItem => item.question)
+            @Html.DisplayFor(modelItem => item.question1Score)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.question2Score)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.question3Score)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.question4Score)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.question5Score)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.question6Score)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.question7Score)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.question8Score)
+        </td>
+        <td>
+        fuck
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.question10Score)
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.questionScore)

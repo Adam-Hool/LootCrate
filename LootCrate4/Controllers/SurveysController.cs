@@ -65,10 +65,11 @@ namespace LootCrate4.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "ID,question,questionScore,totalScore")] Survey survey)
+        public ActionResult Create([Bind(Include = "ID,question1Score,question2Score,question3Score,question4Score,question5Score,question6Score,question7Score,question8Score,question9Score,question10Score,questionScore,totalScore")] Survey survey)
         {
             if (ModelState.IsValid)
             {
+                
                 db.Surveys.Add(survey);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -97,7 +98,7 @@ namespace LootCrate4.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "ID,question,questionScore,totalScore")] Survey survey)
+        public ActionResult Edit([Bind(Include = "ID,question1Score,question2Score,question3Score,question4Score,question5Score,question6Score,question7Score,question8Score,question9Score,question10Score,questionScore,totalScore")] Survey survey)
         {
             if (ModelState.IsValid)
             {
