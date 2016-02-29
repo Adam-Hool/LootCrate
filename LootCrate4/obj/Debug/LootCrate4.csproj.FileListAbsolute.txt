@@ -279,3 +279,4 @@ C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\Sy
 C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\System.IO.FileSystem.Primitives.dll
 C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\vbc.exe.config
 C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\bin\roslyn\vbc.rsp
+C:\devcodecamp\devCodeCampProjects\LootCrate5\LootCrate\LootCrate4\obj\Debug\LootCrate4.csprojResolveAssemblyReference.cache
