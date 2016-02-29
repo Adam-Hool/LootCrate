@@ -203,6 +203,7 @@
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\RoleController.cs" />
     <Compile Include="Controllers\ShirtsController.cs" />
+    <Compile Include="Controllers\Surveys1Controller.cs" />
     <Compile Include="Controllers\SurveysController.cs" />
     <Compile Include="Controllers\ToysController.cs" />
     <Compile Include="Controllers\VideoGamesController.cs" />
@@ -352,6 +353,11 @@
     <Content Include="Views\Surveys\Details.cshtml" />
     <Content Include="Views\Surveys\Edit.cshtml" />
     <Content Include="Views\Surveys\Index.cshtml" />
+    <Content Include="Views\Surveys1\Create.cshtml" />
+    <Content Include="Views\Surveys1\Delete.cshtml" />
+    <Content Include="Views\Surveys1\Details.cshtml" />
+    <Content Include="Views\Surveys1\Edit.cshtml" />
+    <Content Include="Views\Surveys1\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Admin\" />
